@@ -16,7 +16,7 @@ We must first assure that our system can handle this HomeLab build. There are so
 
 <h3>Operating Systems Used</h3>
 
-- Kali Linux, 
+- Kali Linux, [Kali](https://cdimage.kali.org/kali-2026.1/kali-linux-2026.1-installer-amd64.iso)
 - PfSense, (https://atxfiles.netgate.com/mirror/downloads/)
 - Ubuntu 24.04 LTS Server, (https://ubuntu.com/download/server#manual-install-tab)
 - Ubuntu Desktop, (https://ubuntu.com/download/desktop)
