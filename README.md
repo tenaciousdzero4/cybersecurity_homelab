@@ -31,7 +31,12 @@ We must first assure that our system can handle this HomeLab build. There are so
 <img width="431" height="465" alt="Screenshot 2026-06-12 221007" src="https://github.com/user-attachments/assets/eb16c243-3e18-4e22-8f7c-d53ee68aa532" />
 
 
-Download the latest version of each operating system. The end result will be the same regardless of the version or year of the operating system. 
+Download the latest version of each operating system. The end result will be the same regardless of the version or year of the operating system. <br />
+
+<h2>Acknowledgement, Inspiration, Reference<h2>
+
+  - David Varghese (blog.davidvarghese.net)
+  - 
 
 # cybersecurity_homelab
 Instructions for building a cybersecurity homelab. 
