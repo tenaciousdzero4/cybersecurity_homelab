@@ -33,9 +33,9 @@ We must first assure that our system can handle this HomeLab build. There are so
 
 Download the latest version of each operating system. The end result will be the same regardless of the version or year of the operating system. <br />
 
-<h2>Acknowledgement, Inspiration, Reference<h2>
+<h3>Acknowledgement, Inspiration, Reference<h3>
 
-  - David Varghese (blog.davidvarghese.net)
+  - David Varghese ([blog.davidvarghese.net](https://blog.davidvarghese.net/))
   - 
 
 # cybersecurity_homelab
